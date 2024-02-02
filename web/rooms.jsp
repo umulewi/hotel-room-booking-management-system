@@ -77,7 +77,7 @@
               <div class="col-md-5 px-lg-3 px-md-3 px-0">
                 <h5 class="mb-3">delux</h5>
                 <div class="features mb-4">
-                  <h6 class="mb-1">Features:</h6>
+                  <h6 class="mb-1">Features::</h6>
                   <span class="badge rounded-pill bg-light text-dark text-wrap">
                     bathroom
                   </span>
