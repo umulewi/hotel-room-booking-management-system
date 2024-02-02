@@ -82,7 +82,7 @@
                     bathroom
                   </span>
                   <span class="badge rounded-pill bg-light text-dark text-wrap">
-                    TV
+                    TV TV
                   </span>
                   <span class="badge rounded-pill bg-light text-dark text-wrap">
                    WIFI
